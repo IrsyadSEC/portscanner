@@ -1,0 +1,9 @@
+FOR EDUCATIONAL PURPOSE
+
+* This program is distributed in the hope that it will be useful for educational
+* you can modify this program
+
+How to use this tool?
+python3 portscanner.py <IP>
+
+Author : Irsyad Muhammad Fawwaz
