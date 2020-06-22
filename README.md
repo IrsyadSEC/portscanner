@@ -2,7 +2,7 @@
 Port scanner 
 
 # Overview
-this portscanner is easy to use for beginner
+this portscanner is easy to use for beginner 
 
 # Instalation & Usage
 - git clone https://github.com/irsyadfawwaz/portscanner.git
